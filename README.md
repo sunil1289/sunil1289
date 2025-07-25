@@ -1,6 +1,6 @@
 ## Hi  👋 I'm sunil ⚡
 
-🧠 Computer Application Student<br/>
+🧠 Computer Student<br/>
 🌐 Passionate about building and scaling web applications<br/>
 🔧 Crafting full-stack solutions from front to back<br/>
 🤝 Let’s learn, build, and grow together!<br/>
